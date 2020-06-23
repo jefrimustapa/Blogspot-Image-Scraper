@@ -9,11 +9,9 @@ D:\Workspace\blogspotImgDownload\obj\Debug\blogspotImgDownload.pdb
 D:\Workspace\blogspotImgDownload\obj\Debug\blogspotImgDownload.Form1.resources
 H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\bin\Debug\blogspotImgDownload.exe
 H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\bin\Debug\blogspotImgDownload.pdb
-H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\bin\Debug\Google.Apis.Blogger.v3.dll
 H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\obj\Debug\blogspotImgDownload.Form1.resources
 H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\obj\Debug\blogspotImgDownload.Properties.Resources.resources
 H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\obj\Debug\blogspotImgDownload.csproj.GenerateResource.cache
 H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\obj\Debug\blogspotImgDownload.csproj.CoreCompileInputs.cache
-H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\obj\Debug\blogspotImgDownload.csproj.CopyComplete
 H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\obj\Debug\blogspotImgDownload.exe
 H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\obj\Debug\blogspotImgDownload.pdb

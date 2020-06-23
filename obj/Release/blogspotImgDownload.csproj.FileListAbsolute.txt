@@ -9,11 +9,10 @@ D:\Workspace\blogspotImgDownload\obj\Release\blogspotImgDownload.pdb
 D:\Workspace\blogspotImgDownload\bin\Release\Google.Apis.Blogger.v3.dll
 H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\bin\Release\blogspotImgDownload.exe
 H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\bin\Release\blogspotImgDownload.pdb
-H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\bin\Release\Google.Apis.Blogger.v3.dll
 H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\obj\Release\blogspotImgDownload.Form1.resources
 H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\obj\Release\blogspotImgDownload.Properties.Resources.resources
 H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\obj\Release\blogspotImgDownload.csproj.GenerateResource.cache
 H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\obj\Release\blogspotImgDownload.csproj.CoreCompileInputs.cache
-H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\obj\Release\blogspotImgDownload.csproj.CopyComplete
 H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\obj\Release\blogspotImgDownload.exe
 H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\obj\Release\blogspotImgDownload.pdb
+H:\backup\suki-lenovo\Lenovo\Workspace\blogspotImgDownload\obj\Release\blogspotImgDownload.csprojAssemblyReference.cache
